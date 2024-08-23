@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am Haopeng Li, currently a Ph.D. student at BUPT, but I am about to **quit** due to a lack of guidance and resources, as well as being subjected to psychological manipulation (PUA) 💔.
+
+Before this, I obtained a Bachelor's degree 🎓 in Computer Science and Technology from China University of Petroleum.
+
+I am currently interning at Huawei 2012 Lab, focusing on large-scale visual generation models. At the same time, I am preparing for the 25Fall application season.
