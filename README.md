@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Haopeng Li, currently interning at Huawei 2012 Labs, focusing on large-scale visual generation models and Triton kernel optimization. At the same time, I am preparing for the Fall 2025 application season.
+I am Haopeng Li, currently interning at Huawei 2012 Labs, focusing on large-scale visual generation models and Triton kernel optimization. I am also seeking MPhil, PhD, or RA opportunities for 25fall.
 
-Before this, I obtained a Bachelor's degree 🎓 in Computer Science and Technology from China University of Petroleum in 2023.
+Before this, I obtained a Bachelor's degree 🎓 in Computer Science and Technology from China University of Petroleum in 2023, and I voluntarily quit my PhD program at BUPT in 2024.
