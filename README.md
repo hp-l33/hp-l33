@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am Haopeng Li, passionate about visual generation and efficient model research, and currently seeking PhD or Research Assistant opportunities.
+
+- 📚 Visiting Student at Westlake University (Starting in 2025)  
+- 💼 Research Intern at Huawei 2012 Labs (2024 - Present)  
+- 🎓 Bachelor Degree in Computer Science from China University of Petroleum (2023) 
