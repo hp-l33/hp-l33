@@ -15,8 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Haopeng Li, passionate about visual generation and efficient model research, and currently seeking PhD or Research Assistant opportunities.
+My research interests include Generative AI and Efficient AI.
 
-- 📚 Visiting Student at Westlake University (Starting in 2025)  
-- 💼 Research Intern at Huawei 2012 Labs (2024 - Present)  
-- 🎓 Bachelor Degree in Computer Science from China University of Petroleum (2023) 
+<!--
+- 🔭 Incoming M.Phil. student at HKUST (GZ), 2025
+-->
+- 📚 Visiting Student at ENCODE Lab, Westlake University, 2025
+- 💼 Research Intern at Huawei 2012 Labs, 2024
+- 🎓 B.E. in CS, China University of Petroleum, 2023
