@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 My research interests include Generative AI and Efficient AI.
 
 <!--
-- 🔭 Incoming M.Phil. student at HKUST (GZ), 2025
+- 🔭 Incoming M.Phil. student at HKUST(GZ), 2025
 -->
-- 📚 Visiting Student at ENCODE Lab, Westlake University, 2025
+- 📚 Research Intern at ENCODE Lab, Westlake University, 2025
 - 💼 Research Intern at Huawei 2012 Labs, 2024
 - 🎓 B.E. in CS, China University of Petroleum, 2023
